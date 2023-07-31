@@ -1,2 +1,2 @@
-# ToDoList
- To-do list built on swift
+# ToDoList project
+ ToDoList project
